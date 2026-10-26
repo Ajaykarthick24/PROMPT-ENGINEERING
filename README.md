@@ -59,8 +59,6 @@ ________________________________________
 7.2 Export as PDF or desired format</br>
 7.3 Prepare a brief presentation if required (optional)</br>
 
-
-
 # Output
 
 ### **Abstract**
@@ -123,8 +121,6 @@ Generative AI refers to AI techniques that create new data instances that resemb
 
 <img width="988" height="462" alt="image" src="https://github.com/user-attachments/assets/2bdf760e-5b15-46af-ae9d-adced6ef357a" />
 
-
-
 #### **a. Generative Adversarial Networks (GANs)**
 
 * Two neural networks — *Generator* and *Discriminator* — compete to produce realistic outputs.
@@ -161,8 +157,6 @@ LLMs are advanced AI models trained on massive amounts of text data to understan
 ### **5. Architecture of LLMs**
 
 <img width="997" height="507" alt="image" src="https://github.com/user-attachments/assets/123f377c-564e-4873-97a9-d6fd1519ba35" />
-
-
 
 #### **a. Transformers**
 
@@ -225,7 +219,6 @@ LLMs are advanced AI models trained on massive amounts of text data to understan
 * **Benefits**: Better reasoning, broader knowledge, improved fluency.
 * **Challenges**: Cost, energy usage, diminishing returns after a certain scale.
 
-
 ---
 
 ### **10. Future Trends**
@@ -234,11 +227,6 @@ LLMs are advanced AI models trained on massive amounts of text data to understan
 * Multimodal AI (text, image, video, audio integration)
 * More responsible AI governance and regulation
 * AI assisting in scientific research and education
-
 ---
-
-
-
-
 # Result
   Generative AI and LLMs have redefined what machines can create and understand. While offering immense opportunities in automation, creativity, and productivity, they also require careful handling to ensure ethical use and societal benefit.
